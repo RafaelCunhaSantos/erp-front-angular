@@ -36,7 +36,7 @@ Contributions are welcome! To contribute to the development of this project:
 To install and run the project locally:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/RafaelCunhaSantos/erp-front-angular.git
+cd erp-front-angular
 npm install
 ng serve
